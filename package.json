@@ -1,5 +1,5 @@
 {
-  "name": "math",
+  "name": "@js-extras/math",
   "version": "0.2.0",
   "main": "./dist/index.js",
   "scripts": {
