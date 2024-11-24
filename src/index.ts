@@ -1,5 +1,5 @@
 
-/*
+/**
     Gives the remainder of the division of n by d, with an optional offset.
     Equivalent to https://reference.wolfram.com/language/ref/Mod.html
  */
